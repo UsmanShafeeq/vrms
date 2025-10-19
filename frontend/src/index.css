@@ -1,0 +1,13 @@
+/* Basic global styles - remove invalid direct tailwind import */
+html, body, #root {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+	background: #f7fafc;
+	color: #0f172a;
+}
+
+a { color: inherit; text-decoration: none; }
+
+code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace; }

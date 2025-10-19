@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+/* Minimal component styles so the template renders correctly */
+
+
+html.dark {
+  color-scheme: dark;
+}
